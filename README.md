@@ -1,4 +1,4 @@
-![logo](httmps.github.com/jakub-Patera/Jakub-Patera/blob/main/baner.png)
+![logo](httmps.github.com/jakub-Patera/Jakub-Patera/baner.png)
 
 <h1 align="center">Hi 👋, I'm Jakub Patera</h1>
 <h3 align="center">HTML, CSS, JavaScript | Making Ideas Come to Life</h3>
